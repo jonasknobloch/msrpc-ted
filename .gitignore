@@ -1,0 +1,8 @@
+*.class
+*.jar
+
+src/main/java/META-INF
+
+msr_paraphrase_data.txt
+msr_paraphrase_test.txt
+msr_paraphrase_train.txt

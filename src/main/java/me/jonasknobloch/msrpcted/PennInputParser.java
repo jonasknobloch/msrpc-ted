@@ -1,4 +1,4 @@
-package me.jonasknobloch.msrpted;
+package me.jonasknobloch.msrpcted;
 
 import at.unisalzburg.dbresearch.apted.node.Node;
 import at.unisalzburg.dbresearch.apted.node.StringNodeData;

@@ -1,4 +1,4 @@
-package me.jonasknobloch.msrpted;
+package me.jonasknobloch.msrpcted;
 
 import at.unisalzburg.dbresearch.apted.costmodel.*;
 import at.unisalzburg.dbresearch.apted.distance.APTED;
